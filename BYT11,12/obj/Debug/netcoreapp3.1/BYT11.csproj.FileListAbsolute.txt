@@ -1,0 +1,13 @@
+C:\Users\dmitr\source\repos\BYT11\bin\Debug\netcoreapp3.1\BYT11.exe
+C:\Users\dmitr\source\repos\BYT11\bin\Debug\netcoreapp3.1\BYT11.deps.json
+C:\Users\dmitr\source\repos\BYT11\bin\Debug\netcoreapp3.1\BYT11.runtimeconfig.json
+C:\Users\dmitr\source\repos\BYT11\bin\Debug\netcoreapp3.1\BYT11.runtimeconfig.dev.json
+C:\Users\dmitr\source\repos\BYT11\bin\Debug\netcoreapp3.1\BYT11.dll
+C:\Users\dmitr\source\repos\BYT11\bin\Debug\netcoreapp3.1\BYT11.pdb
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.dll
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.pdb
+C:\Users\dmitr\source\repos\BYT11\obj\Debug\netcoreapp3.1\BYT11.genruntimeconfig.cache
